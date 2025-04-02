@@ -43,8 +43,6 @@ Você foi contratado para desenvolver um módulo de **logística**. Esse módulo
 ## 📦 Entregáveis
 1. Código-fonte Java/Spring Boot com a implementação dos padrões.
 2. `README.md` com explicações sobre o uso dos padrões.
-3. Evidências de funcionamento (ex: logs ou prints).
-4. (Opcional) Diagrama UML mostrando os padrões usados.
 
 ---
 
